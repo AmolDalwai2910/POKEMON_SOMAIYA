@@ -9,4 +9,5 @@ A 2-d canvas game where the player mover over a map using W_A_S_D keys
 5)bees are higher level enemies and bats are lower leveled hence providing a combined mixture of enemy attacks and variations
 6)enemies respawn continoiusly 
 ---------------------------------------no special libaraies are used ----------------------
+----------------------TILED SOFTWARE IS USED FOR MAKING THE BACKGROUND MAP___________________
 IT IS A TRULY  WORK OF ART  
