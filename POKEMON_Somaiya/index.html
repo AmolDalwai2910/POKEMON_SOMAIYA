@@ -15,6 +15,7 @@ var WIDTH = 640;
 var HEIGHT = 360;
 var CANVAS_WIDTH = 640;
 var CANVAS_HEIGHT = 360;
+	
 var timeWhenGameStarted = Date.now();	//return time in ms
 
 let resizeCanvas = function(){
@@ -29,7 +30,7 @@ let resizeCanvas = function(){
 
   canvas.width = WIDTH;
   canvas.height = HEIGHT;
-  ctx.font = '30px Arial';
+  ctx.font = '70px Arial';
   ctx.mozImageSmoothingEnabled = false;	//better graphics for pixel art
   ctx.msImageSmoothingEnabled = false;
   ctx.imageSmoothingEnabled = false;
